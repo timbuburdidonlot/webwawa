@@ -1,5 +1,17 @@
 
-body
-{
- background-color:green;
+body{
+    background:#67bed9;
+    color:#333;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto:;
+}
+
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#488598;
+    color:#fff;
 }
