@@ -42,3 +42,8 @@ body{
     color:#FFF;
     text-decoration:none;
 }
+
+.menu ul li a:hover {
+    background-color:#579ab3;
+    display:block;
+}
