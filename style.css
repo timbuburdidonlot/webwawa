@@ -1,6 +1,6 @@
 body
 {
-	background:#C8D5EE;
+	background:#7897D6;
 	color:#333;
 	width:100%;
 	font-family:sans-serif;
@@ -44,7 +44,7 @@ body
 }
 
 .menu ul li a:hover {
-	background-color:#A6DCEF;
+	background-color:#3156A0;
 	display:block;
 }
 
@@ -58,7 +58,7 @@ body
 }
 
 .border{
-	border:2px solid #A6DCEF;
+	border:2px solid #3156A0;
 	margin-top:1pc;
 	padding-bottom:1pc;
 	padding-left:2pc;
